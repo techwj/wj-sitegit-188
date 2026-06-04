@@ -1,0 +1,59 @@
+{
+  "siteId": "winter-bulky-item-storage",
+  "generatedAt": "2026-06-04T11:35:20.461478",
+  "categories": [
+    "beginner-winter-bulky-item-storage",
+    "advanced-winter-bulky-item-storage",
+    "tips-winter-bulky-item-storage",
+    "history-winter-bulky-item-storage",
+    "trending-winter-bulky-item-storage",
+    "tutorials-winter-bulky-item-storage"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-winter-bulky-item-storage",
+      "category_name": "Beginner Winter Bulky Item Storage"
+    },
+    {
+      "category_slug": "advanced-winter-bulky-item-storage",
+      "category_name": "Advanced Winter Bulky Item Storage"
+    },
+    {
+      "category_slug": "tips-winter-bulky-item-storage",
+      "category_name": "Winter Bulky Item Storage Tips"
+    },
+    {
+      "category_slug": "history-winter-bulky-item-storage",
+      "category_name": "Winter Bulky Item Storage History"
+    },
+    {
+      "category_slug": "trending-winter-bulky-item-storage",
+      "category_name": "Trending Winter Bulky Item Storage"
+    },
+    {
+      "category_slug": "tutorials-winter-bulky-item-storage",
+      "category_name": "Winter Bulky Item Storage Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "winter-bulky-item-storage",
+    "color_scheme": {
+      "name": "Warm Orange",
+      "primary": "#c2410c",
+      "secondary": "#f97316",
+      "accent": "#fdba74",
+      "background": "#fff7ed",
+      "text": "#7c2d12",
+      "light": "#ffedd5"
+    },
+    "font": {
+      "family": "Inter, system-ui, -apple-system, sans-serif",
+      "heading": "Inter",
+      "body": "Inter"
+    },
+    "layout": "sidebar",
+    "site_title": "Winter Bulky Item Storage Central",
+    "articles_per_row": 3
+  }
+}
